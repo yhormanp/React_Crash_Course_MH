@@ -1,3 +1,16 @@
+
+This exampel was made from the video Learn React - React Crash Course 2018 - React Tutorial with Examples
+
+of Mosh Hamedani.
+
+You can find the video in this Url
+
+https://www.youtube.com/watch?v=Ke90Tje7VS0
+
+Totally recommended to initiate with React.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
