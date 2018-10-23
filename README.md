@@ -1,5 +1,5 @@
 
-This exampel was made from the video Learn React - React Crash Course 2018 - React Tutorial with Examples
+This example was made from the video Learn React - React Crash Course 2018 - React Tutorial with Examples
 
 of Mosh Hamedani.
 
